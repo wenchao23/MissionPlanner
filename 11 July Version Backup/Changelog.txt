@@ -1,0 +1,8 @@
+This version has three demos, noise, spoofing and gate(incomplete).
+This version has leader fly to function and follow me function. 
+
+This version has form1 and form2. 
+Desired dist is 30m.
+Drones will calculate dist between itself and previous one.
+ID of drone must be in the form of [ID0,ID0+1,ID0+2...] where ID0 is the ID of leader.
+Leader must have the smallest ID.
