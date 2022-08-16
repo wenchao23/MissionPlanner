@@ -1,4 +1,4 @@
-# Extended swarm function of Mission Planner for localization, collision avoidance
+# Extended swarm function of Mission Planner for localization, state estimation, collision avoidance
 
 This is the preliminary version of the mission.
 
